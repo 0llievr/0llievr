@@ -2,7 +2,8 @@
 
 Im a computer science student at California state univercity chico 
 
-https://www.linkedin.com/in/oliver-lynch-88982840/
+#### Please hire me
+[Linked in](https://www.linkedin.com/in/oliver-lynch-88982840/)
 
 
 <!--
