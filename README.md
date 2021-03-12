@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Im Oliver. 
+
+Im a computer science student at California state univercity chico 
+
 
 <!--
 **0llievr/0llievr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
