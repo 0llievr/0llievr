@@ -1,6 +1,6 @@
 ### Hi, Im Oliver. 
 
-Im a computer science student at California state univercity chico 
+Im a computer science student at California State Unversity Chico 
 
 [Linkedin](https://www.linkedin.com/in/oliver-lynch-88982840/)
 
