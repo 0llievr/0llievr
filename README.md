@@ -2,6 +2,8 @@
 
 Im a computer science student at California state univercity chico 
 
+https://www.linkedin.com/in/oliver-lynch-88982840/
+
 
 <!--
 **0llievr/0llievr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
